@@ -7,9 +7,13 @@ Hi ha 3 tipus:
 · De desenvolupament
 ### Relació Hardware-Software
 · Disc dur:emmagatzema permanentment tots els archius executables i de dades.Encara que apagis el ordinador els archius quedaran guardats en el disc dur.
+
 · Memoria RAM:emmagatzema temporalment els archius executables i els archius de dades necessaris.Quan l’ordinador s’apaga no guarda els archius emmagatzemats.
+
 · CPU:llegeix i executa les instruccions que estan guardades en la memoria RAM i també les dades necessaries.
+
 · E/S:Recull noves dades desde l’entrada, mostra els resultats i es guardan/llegeixen en el disc dur.
+
 #### Hi han 3 tipus de codi diferent:
 · Codi font
 · Codi d'objecte
